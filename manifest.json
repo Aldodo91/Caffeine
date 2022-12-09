@@ -1,0 +1,20 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "Caffeine",
+  "description": "Caffeine",
+  "developer_name": "Aldodo91",
+  "icon": "images/ico.svg",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "systemctl_ext",
+      "type": "keyword",
+      "name": "Caffeine",
+      "description": "Enable/Disable Caffeine",
+      "default_value": "Caffeine"
+    }
+  ]
+}
+
